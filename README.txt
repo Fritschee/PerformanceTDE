@@ -1,6 +1,6 @@
 Aluno: Lucas Fritsche
 Matéria: Performance em Sistemas-Ciberfísicos
-TDE - Controle Remoto de Temperatura e Umidade
+TDE - Monitoramento Remoto de Temperatura e Umidade
 
 -------------------------------------------------
 
